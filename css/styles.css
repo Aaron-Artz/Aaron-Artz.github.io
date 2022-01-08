@@ -7,7 +7,7 @@ body {
 .hero {
     background-color: white;
     height: 100vh;
-    padding-top:15em;
+    padding-top:10%;
 }
 
 .hero h1 {
