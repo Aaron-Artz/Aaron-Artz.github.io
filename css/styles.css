@@ -6,11 +6,25 @@ body {
 
 .hero {
     background-color: white;
-    height: 50vh;
+    height: 100vh;
+    padding-top:15em;
+}
+
+.hero h1 {
+    font-size: 8em;
+}
+
+.hero h3 {
+    font-size: 3em;
+}
+
+.hero h5 {
+    font-size: 2em;
 }
 
 .nav-color {
     color: rgb(200, 100, 0) !important;
+    font-weight: bold;
 }
 
 
@@ -26,4 +40,14 @@ body {
 
 .about-container {
     width: 50%;
+    padding-left: 2em;
+    padding-top: 2em;
+}
+
+.font-white {
+    color: white;
+}
+
+.font-orange {
+    color: rgb(200, 100, 0)
 }
