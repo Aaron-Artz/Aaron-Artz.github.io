@@ -27,6 +27,16 @@ body {
     font-weight: bold;
 }
 
+.nav-item {
+    border-radius: 15px;;
+}
+
+.nav-item:hover {
+    background-color: rgba(200, 100, 0, 0.2);
+    transition-duration: 0.2s;
+
+}
+
 
 .about-section {
     background-color: rgb(200, 100, 0);
